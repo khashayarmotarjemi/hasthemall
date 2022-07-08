@@ -4,6 +4,5 @@ void main() async {
   Api api = Api();
 
   await api.run();
-  await api.createNames();
 
 }
